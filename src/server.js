@@ -6,7 +6,7 @@ const http = require('http');
                 <meta charset="utf-8">
             </head>
             <body>
-                <h1> Ultima School </h1>
+                <h1> Ultima School server</h1>
             </body> 
         </html>
     `);
